@@ -1,6 +1,10 @@
 {
-	"name": "Bushido",
+	"name": "bushido",
 	"theme_color_map": {
+        "KEYBOARD": [
+            "#111111",
+            "#FFFFFF"
+         ],
 		"BACKGROUND_PRIMARY": ["#282A30", "#FFFFFF"],
 		"BACKGROUND_SECONDARY": ["#2b2a6b", "#FFFFFF"],
 		"BACKGROUND_SECONDARY_ALT": ["#28173b", "#FFFFFF"],
