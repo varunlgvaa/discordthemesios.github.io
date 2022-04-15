@@ -26,7 +26,7 @@
 		"INTERACTIVE_MUTED": ["#801f27", "#FFFFFF"],
 		"INTERACTIVE_NORMAL": ["#D13744", "#FFFFFF"],
 		"TEXT_NORMAL": ["#F6F0E9", "#FFFFFF"],
-		"TEXT_MUTED": ["#35373e", "#dfdfdf"],
+		"TEXT_MUTED": ["#464851", "#dfdfdf"],
 		"TEXT_LINK": ["#A52833", "#2d53b4"]
 	},
 	"colours": {
