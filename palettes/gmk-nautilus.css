@@ -1,0 +1,18 @@
+:root{
+    --alphas-base_pantone-534c:#1b365d;
+    --alpha-legends_gmk-tu2:#00a4a9;
+    --modifiers-base_pantone-533C:#1f2a44; 
+    --modifiers-legends_gmk-n6:#e5a100;
+
+    /*
+    N6 is also used for Accents (Base)
+    Pantone 533C is also used for Accents (Legend)
+    */
+
+    /* Custom Colors */
+    --alphabaseb1: #264b7f;
+    --alphabaseb2: #2f60a4;
+    --modbaseb1:#3e568d;
+    --modlegendd1:#c78c03;
+    --alphalegendb1:#03b1b7;
+}
