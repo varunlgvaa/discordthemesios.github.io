@@ -1,11 +1,11 @@
 {
 	"name": "bushido",
 	"theme_color_map": {
-        "KEYBOARD": [
-            "#A52833",
-            "#FFFFFF"
-         ],
-		"BACKGROUND_PRIMARY":["#282A30", "#ffffff"],
+		"KEYBOARD": [
+			"#A52833",
+			"#FFFFFF"
+		],
+		"BACKGROUND_PRIMARY": ["#282A30", "#ffffff"],
 		"BACKGROUND_SECONDARY": ["#282A30", "#FFFFFF"],
 		"BACKGROUND_SECONDARY_ALT": ["#41444d", "#FFFFFF"],
 		"BACKGROUND_TERTIARY": ["#35373e", "#FFFFFF"],
@@ -44,5 +44,9 @@
 		"PRIMARY_DARK_900": "#A52833",
 		"WHITE": "#F6F0E9",
 		"BRAND_NEW": "#D13744"
+	},
+
+	"unsafe_colors": {
+		"CHAT_GREY": "#35373e"
 	}
 }
