@@ -1,13 +1,5 @@
 {
 	"name": "bushido",
-	"version": "1.0",
-	"description": "Theme based on GMK Bushido keycaps.",
-	"authors": [ 
-		{
-			"name": "Superuser",
-			"id": "419610859392860162"
-		}
-	],
 	"theme_color_map": {
 		"KEYBOARD": [
 			"#A52833",

@@ -1,0 +1,12 @@
+{
+    "json.schemas": [
+
+
+        {
+            "fileMatch": [
+                "/*.theme.json"
+            ],  
+            "url": "https://beerpiss.github.io/enmity-theme-schema/enmity-theme.schema.json"
+        }
+    ]
+}
